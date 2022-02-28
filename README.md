@@ -1,6 +1,5 @@
 # Systemy-wspomagania-decyzji
 
-
 Obraz 2
 "woman(X)." wyświetlenie kobiet
 "items(X)." wyświetlenie przedmiotów
